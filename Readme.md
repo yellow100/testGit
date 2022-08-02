@@ -1,1 +1,2 @@
-This is a repo just for testing github
+This file is for test purposes
+### Testing Git and Github 
